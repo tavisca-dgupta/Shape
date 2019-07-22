@@ -1,0 +1,17 @@
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\ConsoleApp1.test.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\ConsoleApp1.test.pdb
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\ConsoleApp1.exe
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\ConsoleApp1.pdb
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\ConsoleApp1.exe.config
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\obj\Debug\ConsoleApp1.test.csprojAssemblyReference.cache
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\obj\Debug\ConsoleApp1.test.csproj.CoreCompileInputs.cache
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\obj\Debug\ConsoleApp1.test.csproj.CopyComplete
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\obj\Debug\ConsoleApp1.test.dll
+c:\users\dgupta\source\repos\ConsoleApp1.test\ConsoleApp1.test\obj\Debug\ConsoleApp1.test.pdb
